@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /$
+Allow: /bespoke-art.html
+Allow: /bespoke-animations.html
+Allow: /frontend-optimization.html
+Allow: /backend-software.html
+Disallow: */index.html
+Disallow: /index.html
+Disallow: /README.md
+Disallow: /CNAME
+
+Host: https://collegia.biz/
+Sitemap: https://collegia.biz/sitemap.xml
